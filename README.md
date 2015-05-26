@@ -24,7 +24,7 @@ Taking Photo
 
 - Photo Step 2
 
-  You are at step “2 Basic Info”. Enter into dialogue box “Presentation name” – this will be the name of your AR presentation visible on ARgenie market if you choose to go “public” with your presentation. Select from drop down menu Presentation category: “Business” or “Fun” or “Other”– this categorization will serve for easier search and classification on the presentation market.”Save” and go to step “3 More info”.
+  You are at step “2 Basic Info”. Enter into dialogue box “Presentation name” – this will be the name of your AR presentation visible on ARTool market if you choose to go “public” with your presentation. Select from drop down menu Presentation category: “Business” or “Fun” or “Other”– this categorization will serve for easier search and classification on the presentation market.”Save” and go to step “3 More info”.
 
 - Photo Step 3
 
@@ -46,7 +46,7 @@ Taking Photo
 
 - Photo step 7
 
-  Your presentation is visible in „My Presentations” folder and you can choose to keep it private or make it public. You can also “delete” it or modify it using “edit”. To download your presentation go to the presentations overview inside mobile ARgenie app; Enjoy it!
+  Your presentation is visible in „My Presentations” folder and you can choose to keep it private or make it public. You can also “delete” it or modify it using “edit”. To download your presentation go to the presentations overview inside mobile ARTool app; Enjoy it!
 
 ARvatar Game
 -------------
@@ -56,7 +56,7 @@ ARvatar Game
 
 - ARvatar Step 2
 
-  You are at step “2 Basic Info”. Enter into dialogue box “Presentation name” – this will be the name of your AR presentation visible on ARgenie market if you choose to go “public” with your presentation. Select from drop down menu Presentation category: “Business” or “Fun” or “Other”– this categorization will serve for easier search and classification on the presentation market.”Save” and go to step “3 More info”.
+  You are at step “2 Basic Info”. Enter into dialogue box “Presentation name” – this will be the name of your AR presentation visible on ARTool market if you choose to go “public” with your presentation. Select from drop down menu Presentation category: “Business” or “Fun” or “Other”– this categorization will serve for easier search and classification on the presentation market.”Save” and go to step “3 More info”.
 
 - ARvatar Step 3
 
@@ -78,4 +78,4 @@ ARvatar Game
 
 - ARvatar step 7
 
-  Your presentation is visible in „My Presentations” folder and you can choose to keep it private or make it public. You can also “delete” it or modify it using “edit”. To download your presentation go to the presentations overview inside mobile ARgenie app; Enjoy it!
+  Your presentation is visible in „My Presentations” folder and you can choose to keep it private or make it public. You can also “delete” it or modify it using “edit”. To download your presentation go to the presentations overview inside mobile ARTool app; Enjoy it!
